@@ -1,6 +1,6 @@
 ### 안녕하세요 프론트엔드 웹 개발자 박지원입니다.
 - 📫 How to reach me: j9399977@gmail.com
-- 🌱 NextJS를 학습하고 있습니다.
+- 🌱 NextJS 14버전을 학습하고 있습니다.
 - 💬 포트폴리오에 대한 상세 기술은 https://www.notion.so/PORTFOLIO-75d74a34a6bc4ef485f0f4e3435f514f 참고해주세요.
 
 |알고리즘|사용하는언어|
