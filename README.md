@@ -2,7 +2,8 @@
 - 📫 How to reach me: j9399977@gmail.com
 - 🌱 NextJS를 학습하고 있습니다.
 - 💬 포트폴리오에 대한 상세 기술은 https://www.notion.so/PORTFOLIO-75d74a34a6bc4ef485f0f4e3435f514f 참고해주세요.
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whereisjw)](https://solved.ac/whereisjw)
 <!--
 **whereisjw/whereisjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
