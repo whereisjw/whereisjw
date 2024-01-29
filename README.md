@@ -10,8 +10,7 @@
 
 |제목|내용|설명|
 |------|---|---|
-|[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tacoding)](https://solved.ac/whereisjw)|테스트2|테스트3|
+|[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tacoding)](https://solved.ac/whereisjw)|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 
