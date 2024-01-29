@@ -2,16 +2,11 @@
 - 📫 How to reach me: j9399977@gmail.com
 - 🌱 NextJS를 학습하고 있습니다.
 - 💬 포트폴리오에 대한 상세 기술은 https://www.notion.so/PORTFOLIO-75d74a34a6bc4ef485f0f4e3435f514f 참고해주세요.
-- 알고리즘
-- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tacoding)](https://solved.ac/whereisjw)
-- 사용하는 언어
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whereisjw&langs_count=8)](https://github.com/whereisjw/github-readme-stats)
 
-|알고리즘|사용하는언어|설명|
-|------|---|---|
+|알고리즘|사용하는언어|
+|------|---|
 |[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tacoding)](https://solved.ac/whereisjw)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whereisjw&langs_count=8)](https://github.com/whereisjw/github-readme-stats)
-|테스트3|
+
 
 
 
