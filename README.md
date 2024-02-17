@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub 통계
 
-![당신의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=당신의깃헙아이디&show_icons=true&theme=radical)
+![당신의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=whereisjw&show_icons=true&theme=radical)
 
 ### 📚 최근 블로그 포스트
 
