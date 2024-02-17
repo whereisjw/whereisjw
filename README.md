@@ -23,17 +23,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 
-### 📊 GitHub 통계
-
-![당신의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=whereisjw&show_icons=true&theme=radical)
-
-
-### 프로그래밍 역량
-|알고리즘|사용하는언어|📊 GitHub 통계|
-|------|---|
-|[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tacoding)](https://solved.ac/whereisjw)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whereisjw&langs_count=8)](https://github.com/whereisjw/github-readme-stats)|![당신의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=whereisjw&show_icons=true&theme=radical)
-
-...
+ 
 
 ### 🤝 연결
 
