@@ -7,7 +7,7 @@
 - 📫 연락 방법: [9399977@gmail.com]
 - 🌐 포트폴리오: [https://www.notion.so/PORTFOLIO-75d74a34a6bc4ef485f0f4e3435f514f]
 - 💬 질문이 있으시면 언제든지 저에게 연락해 주세요!
-- - 🥇Road to gold
+- 🥇Road to gold
 
 ### 🛠 기술 스택
 
