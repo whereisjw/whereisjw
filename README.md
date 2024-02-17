@@ -25,3 +25,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 안녕하세요! 저는 [당신의 이름]입니다 👋
+
+## 프론트엔드 개발자 | UI/UX 열정가 | 기술 블로거
+
+- 🌱 현재 React, TypeScript, 그리고 Tailwind CSS를 공부 중입니다.
+- 🔭 [당신의 프로젝트 링크]에서 진행 중인 프로젝트를 확인해 보세요!
+- 📫 연락 방법: [이메일 주소]
+- 🌐 포트폴리오: [웹사이트 링크]
+- 💬 질문이 있으시면 언제든지 저에게 연락해 주세요!
+
+### 🛠 사용 기술
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+... (기타 기술 및 도구)
+
+### 📊 GitHub 통계
+
+![당신의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=당신의깃헙아이디&show_icons=true&theme=radical)
+
+### 📚 최근 블로그 포스트
+
+- [블로그 포스트 제목 1](블로그 링크)
+- [블로그 포스트 제목 2](블로그 링크)
+...
+
+### 🤝 연결
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](LinkedIn 링크)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](트위터 링크)
+...
+
