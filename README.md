@@ -9,7 +9,7 @@
 - 💬 질문이 있으시면 언제든지 저에게 연락해 주세요!
 - - 🥇Road to gold
 
-### 🛠 사용 기술
+### 🛠 기술 스택
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -22,7 +22,12 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
+### 프로그래밍
 
+| 알고리즘 | 사용언어 | 깃허브 |
+|----------|----------|----------|
+| [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tacoding)](https://solved.ac/whereisjw)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whereisjw&langs_count=8)](https://github.com/whereisjw/github-readme-stats)     | ![나의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=whereisjw&show_icons=true&theme=radical)     |
+ 
  
 
 
