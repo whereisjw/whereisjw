@@ -27,13 +27,12 @@
 | 알고리즘 | 사용언어 | 깃허브 |
 |----------|----------|----------|
 | [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tacoding)](https://solved.ac/whereisjw)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whereisjw&langs_count=8)](https://github.com/whereisjw/github-readme-stats)     | ![나의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=whereisjw&show_icons=true&theme=radical)     |
+
+
+ #
+ ![Visitor Count](https://komarev.com/ghpvc/?username=whereisjw)
+
  
- 
 
 
-### 🤝 연결
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](LinkedIn 링크)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](트위터 링크)
-...
 
