@@ -2,7 +2,7 @@
 
 ## 프론트엔드 개발자 | UI/UX | 서울 거주
 
-- 🌱 현재 NextJS 14버전,ReactJS 최적화, 네트워크를 학습하고 있습니다.
+- 🌱 현재 NestJS ,ReactJS 최적화, 네트워크를 학습하고 있습니다.
 - 🫛 react기반의 팀프로젝트 기부콩 2024-02~현재
 - 🔭 [https://github.com/whereisjw/sh]에서 진행 중인 프로젝트를 확인해 보세요!
 - 📫 연락 방법: [9399977@gmail.com]
